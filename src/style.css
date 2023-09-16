@@ -11,4 +11,12 @@ img {
   width: 45%;
   border-radius: 10px;
   box-shadow: 0 5px 10px black;
+  margin-bottom: 10px;
+
+}
+footer {
+    text-align: center;
+}
+footer a{
+    margin: 0 10px;
 }
